@@ -61,7 +61,6 @@ This is a synthetic dataset, but it reflects realistic fraud detection challenge
 📧 sp8004@nyu.edu  
 🔗 [LinkedIn](https://linkedin.com](https://www.linkedin.com/in/ssiddharthan/)
 - 📘 Medium Article: [Detecting Money Laundering with Python and AML Dataset](https://medium.com/@siddharthanps.1/%EF%B8%8F-detecting-money-laundering-using-python-my-hands-on-attempt-5e772aef6e8c)  
-- 📊 Kaggle Notebook: [Anti Money Laundering EDA + ML Pipeline (Colab)](https://www.kaggle.com/code/yourusername/anti-money-laundering-analysis)
 
 
 ## ✅ Tip
