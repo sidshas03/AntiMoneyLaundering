@@ -46,10 +46,6 @@ We analyze trends in:
 - Integrate anomaly detection
 - Convert pipeline into real-time dashboard
 
-## 📁 Project Structure
-├── Anti_Money_Laundering.ipynb # Main analysis notebook
-└── README.md # Project documentation
-
 
 ## 🧠 Author's Note
 
