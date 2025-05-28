@@ -39,6 +39,9 @@ We analyze trends in:
 3. Run the cell to authenticate and download the dataset.
 4. Execute the EDA blocks and modify or extend as needed.
 
+## Checkout Kaggle of AML:
+[Kaggle](https://www.kaggle.com/code/pssiddharthan/aml-stmd)
+
 ## 📈 Planned Extensions
 
 - Train machine learning models (Logistic Regression, XGBoost)
